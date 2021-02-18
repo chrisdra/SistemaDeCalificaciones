@@ -1,0 +1,4 @@
+Alumno: 187554926 - christian
+ 	 Materias MATEMATICAS - Promedio: 65
+Alumno: 187554926 - christian
+ 	 Materias HISTORIA - Promedio: 43,3
